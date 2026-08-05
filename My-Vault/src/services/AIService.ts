@@ -1,6 +1,6 @@
 import * as FileSystem from 'expo-file-system/legacy';
 
-const API_KEY = "AIzaSyD9VgiQD6emn5joaVjaNO8kE5HUS5EpEg0";
+const API_KEY = "A...................";
 
 export class AIService {
   static async generateResponse(query: string, context: string): Promise<string> {
